@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=NetworkTools
+comment1.params=size\ init_value
+comment1.target=double[]\ createArray(int,\ double)
+comment2.params=size\ lower_bound\ upper_bound
+comment2.target=double[]\ createRandomArray(int,\ double,\ double)
+comment3.params=sizeX\ sizeY\ lower_bound\ upper_bound
+comment3.target=double[][]\ createRandomArray(int,\ int,\ double,\ double)
+comment4.params=lower_bound\ upper_bound
+comment4.target=double\ randomValue(double,\ double)
+comment5.params=lowerBound\ upperBound\ amount
+comment5.target=java.lang.Integer[]\ randomValues(int,\ int,\ int)
+comment6.params=ar\ value
+comment6.target=boolean\ containsValue(java.lang.Comparable[],\ java.lang.Comparable)
+comment7.params=values
+comment7.target=int\ indexOfHighestValue(double[])
+numComments=8

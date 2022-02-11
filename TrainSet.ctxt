@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TrainSet
+comment1.params=input\ output
+comment1.target=TrainSet(int,\ int)
+comment2.params=input\ output
+comment2.target=void\ addSet(double[],\ double[])
+comment3.params=
+comment3.target=int\ getNumSets()
+comment4.params=index
+comment4.target=double[][]\ getSet(int)
+numComments=5
